@@ -1,17 +1,20 @@
 {
   "name": "sync-branches",
-  "version": "1.4.0",
-  "description": "GitHub Action to sync a branch when another one is updated",
+  "version": "2.0.0",
+  "description": "GitHub Action to sync one branch to another",
   "main": "index.js",
   "author": "Tre Ammatuna <tre@tretuna.com>",
+  "contributors": [
+    "Calum MacRae <hi@cmacr.ae"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tretuna/sync-branches/issues"
+    "url": "https://github.com/cmacrae/sync-branches/issues"
   },
-  "homepage": "https://github.com/tretuna/sync-branches#readme",
+  "homepage": "https://github.com/cmacrae/sync-branches#readme",
   "repository": {
     "type": "git",
-    "url": "git@github.com:TreTuna/sync-branches.git"
+    "url": "git@github.com:cmacrae/sync-branches.git"
   },
   "keywords": [
     "GitHub",
